@@ -9,4 +9,5 @@ setup(name='django_project',
       license='MIT',
       packages=find_packages(),
       install_requires=[],
+      tests_require=['pytest'],
      )
