@@ -1,2 +1,2 @@
 [run]
-include=setup.py
+include=project/*
