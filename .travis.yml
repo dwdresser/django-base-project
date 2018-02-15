@@ -7,3 +7,5 @@ script:
 -   tox
 after_success:
 -   coveralls
+ notifications:
+    slack: sms-506:1sOes22geJhF6CIT7RoAtU0s
