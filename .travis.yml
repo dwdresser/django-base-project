@@ -8,6 +8,4 @@ script:
 after_success:
 -   coveralls
 notifications:
-    slack: 
-        sms-506:
-            1sOes22geJhF6CIT7RoAtU0s
+  slack: 'sms-506:1sOes22geJhF6CIT7RoAtU0s#back-end'
